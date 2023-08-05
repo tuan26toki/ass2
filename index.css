@@ -1,0 +1,80 @@
+#all{
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(220, 220, 220);
+    padding: 0;
+    margin: 0;
+}
+#all{
+    display: flex;
+    
+}
+.dark{
+    width: 660px;
+    height: 1176px;
+    top: 32px;
+    left: 48px;
+}
+.dark1{
+    margin-top: 32px;
+    margin-left: 48px;
+    width: 660px;
+    height: 184px;
+    background: linear-gradient(90.02deg, #25335A 0.02%, #141824 113.01%);
+    position: relative;
+}
+.d1{
+    width: 270px;
+    height: 33px;
+    font-family: Open Sans;
+    font-size: 24px;
+    position: absolute;
+    top: 72px;
+    left: 40px;
+    color: white;
+}
+.d2{
+    width: 263px;
+    height: 44px; 
+    font-family: Open Sans;
+    font-size: 32px; 
+    position: absolute;
+    top: 105px;
+    left: 40px;
+    color: white;
+}
+.light{
+    width: 660px;
+    height: 1176px;
+    top: 32px;
+    left: 48px;
+}
+.light1{
+    margin-top: 32px;
+    margin-left: 48px;
+    width: 660px;
+    height: 184px;
+    background: white;
+    position: relative;
+}
+.l1{
+    width: 270px;
+    height: 33px;
+    font-family: Open Sans;
+    font-size: 24px;
+    position: absolute;
+    top: 72px;
+    left: 40px;
+    color: #B65741;
+    ;
+}
+.l2{
+    width: 263px;
+    height: 44px; 
+    font-family: Open Sans;
+    font-size: 32px; 
+    position: absolute;
+    top: 105px;
+    left: 40px;
+    color: #B65741;
+}
